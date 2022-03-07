@@ -3,9 +3,6 @@
 ## 目标
 > 每个人都可以独立、快速、高效地开发项目！
 
-#### [GITHUB](https://github.com/geekidea/spring-boot-plus) | [GITEE](https://gitee.com/geekidea/spring-boot-plus)
-
-#### [springboot.plus](http://springboot.plus)
 
 ### 主要特性
 - 集成spring boot 常用开发组件集、公共配置、AOP日志等
